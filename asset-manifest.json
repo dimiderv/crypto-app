@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/crypto-app/static/css/main.f5a8a8dd.css",
-    "main.js": "/crypto-app/static/js/main.5a0a06c8.js",
+    "main.js": "/crypto-app/static/js/main.4876acfa.js",
     "static/js/787.9d2175de.chunk.js": "/crypto-app/static/js/787.9d2175de.chunk.js",
     "static/media/revicons.eot": "/crypto-app/static/media/revicons.a77de540a38981833f9e.eot",
     "static/media/revicons.ttf": "/crypto-app/static/media/revicons.57fd05d4ae650374c8de.ttf",
     "static/media/revicons.woff": "/crypto-app/static/media/revicons.e8746a624ed098489406.woff",
     "index.html": "/crypto-app/index.html",
     "main.f5a8a8dd.css.map": "/crypto-app/static/css/main.f5a8a8dd.css.map",
-    "main.5a0a06c8.js.map": "/crypto-app/static/js/main.5a0a06c8.js.map",
+    "main.4876acfa.js.map": "/crypto-app/static/js/main.4876acfa.js.map",
     "787.9d2175de.chunk.js.map": "/crypto-app/static/js/787.9d2175de.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f5a8a8dd.css",
-    "static/js/main.5a0a06c8.js"
+    "static/js/main.4876acfa.js"
   ]
 }
