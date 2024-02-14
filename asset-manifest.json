@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/crypto-app/static/css/main.1c7cf6ed.css",
-    "main.js": "/crypto-app/static/js/main.4f3e28c8.js",
+    "main.css": "/crypto-app/static/css/main.0d9d0303.css",
+    "main.js": "/crypto-app/static/js/main.84be1385.js",
     "static/js/787.9d2175de.chunk.js": "/crypto-app/static/js/787.9d2175de.chunk.js",
     "static/media/favicon.ico": "/crypto-app/static/media/favicon.538f9c5c6801adde575a.ico",
     "static/media/revicons.eot": "/crypto-app/static/media/revicons.a77de540a38981833f9e.eot",
     "static/media/revicons.ttf": "/crypto-app/static/media/revicons.57fd05d4ae650374c8de.ttf",
     "static/media/revicons.woff": "/crypto-app/static/media/revicons.e8746a624ed098489406.woff",
     "index.html": "/crypto-app/index.html",
-    "main.1c7cf6ed.css.map": "/crypto-app/static/css/main.1c7cf6ed.css.map",
-    "main.4f3e28c8.js.map": "/crypto-app/static/js/main.4f3e28c8.js.map",
+    "main.0d9d0303.css.map": "/crypto-app/static/css/main.0d9d0303.css.map",
+    "main.84be1385.js.map": "/crypto-app/static/js/main.84be1385.js.map",
     "787.9d2175de.chunk.js.map": "/crypto-app/static/js/787.9d2175de.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1c7cf6ed.css",
-    "static/js/main.4f3e28c8.js"
+    "static/css/main.0d9d0303.css",
+    "static/js/main.84be1385.js"
   ]
 }
